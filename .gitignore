@@ -1,0 +1,5 @@
+corpus/
+output/
+sheets.html
+__pycache__/
+~$*.xlsx
